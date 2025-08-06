@@ -4,6 +4,22 @@ This repository documents a rare, high-risk attempt to locally run a **20B param
 on a mid-spec **Panasonic Let's Note** laptop — fully offline, with almost no free RAM or SSD space.
 
 ---
+---
+
+## 🎥 Boot Attempt Recording
+
+This short video captures the moment I attempted to run `gpt-oss:20b`  
+under extreme conditions:  
+- 92% RAM usage  
+- Less than 5GB SSD free  
+- No Wi-Fi  
+- i5 CPU with integrated GPU
+
+<video src="girigiriOSSkido.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
+🔗 [Click here to download or view the video directly](./girigiriOSSkido.mp4)
 
 ## ⚙️ Hardware Specs
 
