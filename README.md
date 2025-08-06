@@ -41,22 +41,6 @@ But today, it proved capable of far more — running a **20B LLM under impossibl
 
 > "**Not built for this... but still did it.**"
 
-
-## ⚙️ Hardware Specs
-
-| Component     | Details                        |
-|---------------|--------------------------------|
-| CPU           | Intel(R) Core i5-10310U @ 1.70GHz |
-| RAM           | 16.0 GB DDR4 (92% used at runtime) |
-| GPU           | Integrated Intel UHD (128MB shared) |
-| Storage       | 236GB SSD (4.89GB free at runtime) |
-| OS            | Windows 11 Pro |
-| Network       | **Wi-Fi OFF (Air-gapped)** |
-| LLM Framework | Ollama (v0.1.30) |
-| Model         | `gpt-oss:20b` |
-
----
-
 ## 🔐 Offline Proof
 
 This was a **true local execution**.  
