@@ -1,5 +1,3 @@
-# Just-barely-started-gpt-oss-20b
-Low spec startup record
 # 🧠 Local 20B LLM Boot — On the Edge of Capacity
 
 This repository documents a rare, high-risk attempt to locally run a **20B parameter language model (gpt-oss:20b)**  
@@ -28,18 +26,49 @@ This was a **true local execution**.
 The system was completely disconnected from the internet at the time of model launch:
 
 ### 🔒 No Wi-Fi  
-![Wi-Fi off](img/wifioff.png)
+![Wi-Fi off](wifioff.png)
 
 ### 💽 SSD Nearly Full  
-![SSD usage](img/girigiriSSD.png)
+![SSD usage](girigiriSSD.png)
 
 ### 🧠 RAM Near Capacity  
-![Memory usage](img/memorigirigiri.png)
+![Memory usage](memorigirigiri.png)
 
 ### 🖥 System Specs  
-![System info](img/spec.png)
+![System info](spec.png)
 
 ---
 
 ## 🚨 Execution Attempt Log
 
+```powershell
+ollama run gpt-oss:20b
+
+📜 Why This Matters
+In a world where most LLMs depend on the cloud,
+this attempt proves that a laptop with modest specs, limited storage, and no network
+can still fight to host a massive model like a 20B LLM — locally.
+
+It’s not about winning. It’s about proving it can be tried.
+It’s about reminding ourselves:
+
+"You don’t need perfect conditions to try impossible things."
+
+✍️ Notes
+Model loading partially succeeded
+
+RAM limit likely triggered runtime crash (exit status 2)
+
+Execution was monitored with no other major processes running
+
+This was done intentionally without freeing space, to prove the threshold
+
+🧠 Authored by
+KGNINJA
+https://x.com/FuwaCocoOwnerKG
+
+“I chose a machine not because it was strong,
+but because it would make the story stronger.”
+
+🏷 Tags
+#OfflineLLM #20Bboot #LimitBreak #KGNINJA
