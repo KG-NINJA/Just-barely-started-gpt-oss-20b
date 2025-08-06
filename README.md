@@ -21,6 +21,27 @@ under extreme conditions:
 
 🔗 [Click here to download or view the video directly](./girigiriOSSkido.mp4)
 
+---
+
+## 🧩 The Machine — Panasonic Let's Note CF-SV
+
+| Spec           | Value                          |
+|----------------|---------------------------------|
+| Model          | **Panasonic Let's Note CF-SV** |
+| Processor      | Intel(R) Core(TM) i5-10310U CPU @ 1.70GHz (Turbo: 2.21GHz) |
+| RAM            | 16.0 GB (15.7 GB usable)        |
+| Graphics       | Integrated Intel UHD (128MB)    |
+| Storage        | 236GB SSD (with <5GB free at test time) |
+| OS             | Windows 11 Pro                 |
+| Wi-Fi Status   | **OFF (Air-gapped)**           |
+| Made in        | **🇯🇵 JAPAN**                   |
+
+🛡️ Known for durability, portability, and business-class resilience.  
+But today, it proved capable of far more — running a **20B LLM under impossible conditions.**
+
+> "**Not built for this... but still did it.**"
+
+
 ## ⚙️ Hardware Specs
 
 | Component     | Details                        |
