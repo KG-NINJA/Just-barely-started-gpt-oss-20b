@@ -24,6 +24,7 @@ under extreme conditions:
 ---
 
 ## 🧩 The Machine — Panasonic Let's Note CF-SV
+![Vanguard Silver Surfboard](./ChatGPT%20Image%20Aug%208,%202025,%2002_10_39%20PM.png)
 
 | Spec           | Value                          |
 |----------------|---------------------------------|
